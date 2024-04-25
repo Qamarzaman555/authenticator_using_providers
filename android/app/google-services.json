@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "324192486215",
+    "firebase_url": "https://authentivator-default-rtdb.firebaseio.com",
+    "project_id": "authentivator",
+    "storage_bucket": "authentivator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324192486215:android:0fe1897994aa69bdbf4262",
+        "android_client_info": {
+          "package_name": "com.authenticator.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2iy02wxse0F-k4JVQGh-OPn_E2h9RV78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324192486215:android:22bdf6137ba65963bf4262",
+        "android_client_info": {
+          "package_name": "com.example.authenticator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2iy02wxse0F-k4JVQGh-OPn_E2h9RV78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
